@@ -17,5 +17,5 @@ new Array(Number(times) + 1).fill().forEach((_, scenarioIndex) => {
 })
 
 console.log('possibleRecordAttempts', possibleRecordAttempts)
-console.log(times, records)
+// console.log(times, records)
 // console.log('result: ', result)
